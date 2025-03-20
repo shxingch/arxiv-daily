@@ -1,3 +1,72 @@
+"Large-Language Model":
+  "Large-Language Model": '"Large-Language Model"OR"LLM"OR"Large Language Model"OR"Pre-trained Language Model"OR"PLM"OR"Pretrained Language Model"OR"Language Model"OR"LM"OR"Transformer-based Language Model"OR"TB-LM"OR"Transformer based Language Model"'
+  "LLM Alignment": '"LLM Alignment"OR"Language Model Alignment"OR"AI Alignment"OR"RLHF"OR"Reinforcement Learning from Human Feedback"OR"Constitutional AI"'
+  "LLM Reasoning": '"LLM Reasoning"OR"Chain-of-Thought"OR"CoT"OR"Step-by-Step Reasoning"OR"Tree-of-Thought"OR"ToT"OR"Language Model Reasoning"'
+  "Prompt Engineering": '"Prompt Engineering"OR"Prompt Design"OR"Prompt Tuning"OR"In-context Learning"OR"Few-shot Prompting"OR"Zero-shot Prompting"'
+  "LLM Fine-tuning": '"LLM Fine-tuning"OR"Language Model Fine-tuning"OR"PEFT"OR"Parameter-Efficient Fine-tuning"OR"LoRA"OR"QLoRA"OR"Adapter"'
+  "LLM Evaluation": '"LLM Evaluation"OR"Language Model Evaluation"OR"LLM Benchmark"OR"LLM Assessment"OR"LLM Testing"'
+  "Multimodal LLM": '"Multimodal LLM"OR"Vision Language Model"OR"VLM"OR"Multimodal Language Model"OR"MLLM"OR"Vision-Language Model"'
+  "LLM Efficiency": '"LLM Efficiency"OR"Language Model Efficiency"OR"Efficient LLM"OR"Sparse LLM"OR"Quantization"OR"Model Compression"OR"Distillation"OR"Knowledge Distillation"'
+  "LLM Retrieval": '"LLM Retrieval"OR"RAG"OR"Retrieval-Augmented Generation"OR"LLM with Knowledge Base"OR"LLM with External Memory"'
+  "LLM Architecture": '"LLM Architecture"OR"Mixture of Experts"OR"MoE"OR"Sparse Mixture of Experts"OR"SMoE"OR"Transformer Architecture"'
+  "LLM Applications": '"LLM Applications"OR"LLM for Code"OR"Code LLM"OR"LLM for Healthcare"OR"Medical LLM"OR"Legal LLM"OR"Educational LLM"'
+
+"Embodied Intelligence":
+  "Embodied Intelligence": '"Embodied Intelligence"OR"Embodied AI"OR"Embodied Agents"OR"Embodied Learning"'
+  "Embodied Cognition": '"Embodied Cognition"OR"Embodied Understanding"OR"Cognitive Robotics"'
+  "Embodied Navigation": '"Embodied Navigation"OR"Visual Navigation"OR"Indoor Navigation"OR"Point-Goal Navigation"'
+  "Embodied Manipulation": '"Embodied Manipulation"OR"Object Manipulation"OR"Robotic Manipulation"OR"Dexterous Manipulation"'
+  "Embodied Vision-Language": '"Embodied Vision-Language"OR"Embodied VLM"OR"Multimodal Embodied AI"'
+  "Embodied Simulation": '"Embodied Simulation"OR"Physics-based Simulation"OR"Robot Simulation"'
+  "Digital Twin": '"Digital Twin"OR"Digital Embodiment"OR"Virtual Embodiment"'
+
+"Robotics":
+  "Robotics": '"Robotics"'
+  "Robot Learning": '"Robot Learning"OR"Learning for Robotics"OR"Imitation Learning"OR"Reinforcement Learning for Robotics"'
+  "Human-Robot Interaction": '"Human-Robot Interaction"OR"HRI"OR"Human Robot Collaboration"OR"Collaborative Robotics"OR"Cobot"'
+  "Soft Robotics": '"Soft Robotics"OR"Soft Robot"OR"Compliant Robots"OR"Flexible Robotics"'
+  "Legged Robotics": '"Legged Robotics"OR"Legged Locomotion"OR"Quadruped Robot"OR"Bipedal Robot"OR"Humanoid Robot"'
+  "Aerial Robotics": '"Aerial Robotics"OR"Drone"OR"UAV"OR"Unmanned Aerial Vehicle"OR"Flying Robot"'
+  "Medical Robotics": '"Medical Robotics"OR"Surgical Robot"OR"Rehabilitation Robotics"OR"Healthcare Robotics"'
+  "Swarm Robotics": '"Swarm Robotics"OR"Multi-robot Systems"OR"Robot Swarms"OR"Distributed Robotics"'
+  "SLAM": '"SLAM"OR"Simultaneous Localization and Mapping"OR"Visual SLAM"OR"LiDAR SLAM"'
+  "SFM": '"SFM"OR"Structure from Motion"'
+  "Visual Localization": '"Camera Localization"OR"Visual Localization"OR"Camera Re-localisation"'
+  "Robot Planning": '"Robot Planning"OR"Motion Planning"OR"Path Planning"OR"Task Planning"OR"TAMP"'
+  "Robot Control": '"Robot Control"OR"Control Theory"OR"Adaptive Control"OR"Robust Control"OR"Optimal Control"'
+
+"Diffusion":
+  "Diffusion Models": '"Diffusion Models"OR"Diffusion Probabilistic Models"OR"Score-based Generative Models"OR"Denoising Diffusion"'
+  "Text-to-Image Diffusion": '"Text-to-Image Diffusion"OR"Text-Conditional Diffusion"OR"Text-guided Diffusion"OR"Diffusion for Text-to-Image"'
+  "Video Diffusion": '"Video Diffusion"OR"Diffusion for Video"OR"Video Generation with Diffusion"OR"Diffusion Video Models"'
+  "3D Diffusion": '"3D Diffusion"OR"Diffusion for 3D"OR"3D Generation with Diffusion"OR"Diffusion 3D Models"'
+  "Latent Diffusion": '"Latent Diffusion"OR"Latent Diffusion Models"OR"LDM"OR"Stable Diffusion"'
+  "Diffusion Transformers": '"Diffusion Transformers"OR"DiT"OR"Diffusion with Transformers"'
+  "Guided Diffusion": '"Guided Diffusion"OR"Classifier-Free Guidance"OR"Classifier Guidance"OR"Guidance Techniques for Diffusion"'
+  "Accelerated Diffusion": '"Accelerated Diffusion"OR"Fast Sampling"OR"Efficient Diffusion"OR"DDIM"OR"DPM-Solver"'
+  "Diffusion for Editing": '"Diffusion for Editing"OR"Image Editing with Diffusion"OR"Controllable Diffusion"OR"ControlNet"'
+
+"Video Generation":
+  "Video Generation": '"Video Generation"OR"Video Synthesis"OR"Neural Video Synthesis"OR"AI Video Generation"'
+  "Text-to-Video": '"Text-to-Video"OR"Text-guided Video Generation"OR"Text-Conditioned Video"OR"T2V"'
+  "Video Diffusion": '"Video Diffusion"OR"Diffusion for Video"OR"Diffusion-based Video Generation"'
+  "Long Video Generation": '"Long Video Generation"OR"Extended Video Generation"OR"Long-form Video"OR"Long Video Synthesis"'
+  "Video Prediction": '"Video Prediction"OR"Future Frame Prediction"OR"Video Forecasting"OR"Frame Prediction"'
+  "Video-to-Video": '"Video-to-Video"OR"V2V"OR"Video Translation"OR"Video Style Transfer"'
+  "Motion Generation": '"Motion Generation"OR"Human Motion Synthesis"OR"Motion Prediction"OR"Body Motion Generation"'
+  "Temporal Consistency": '"Temporal Consistency"OR"Temporal Coherence"OR"Video Consistency"OR"Coherent Video Generation"'
+  "Video Editing": '"Video Editing"OR"Neural Video Editing"OR"AI Video Editing"OR"Semantic Video Manipulation"'
+
+"Text-to-Image":
+  "Text-to-Image": '"Text-to-Image"OR"Text-to-Image Generation"OR"Text-to-Image Synthesis"OR"T2I"'
+  "Multimodal Text-to-Image": '"Multimodal Text-to-Image"OR"Multi-concept Generation"OR"Complex Scene Generation"'
+  "Text-to-Image Diffusion": '"Text-to-Image Diffusion"OR"Diffusion for Text-to-Image"OR"DALL-E"OR"Stable Diffusion"OR"Midjourney"'
+  "Text-to-Image Transformers": '"Text-to-Image Transformers"OR"Transformer-based Text-to-Image"OR"Attention-based Text-to-Image"'
+  "Text-to-Image GANs": '"Text-to-Image GANs"OR"GAN-based Text-to-Image"OR"Adversarial Text-to-Image"'
+  "Image Editing": '"Image Editing"OR"Text-guided Image Editing"OR"Semantic Image Manipulation"OR"ControlNet"OR"InstructPix2Pix"'
+  "Text-to-Image Evaluation": '"Text-to-Image Evaluation"OR"T2I Evaluation"OR"Image Generation Metrics"OR"Image-Text Alignment"'
+  "Text-to-Image Personalization": '"Text-to-Image Personalization"OR"Personalized Image Generation"OR"Custom Image Generation"OR"DreamBooth"OR"TextualInversion"'
+
 "Computer Vision":
   "Image Classification": '"Image Classification"'
   "Keypoint Detection": '"Keypoint Detection"OR"Feature Descriptor"'
@@ -7,6 +76,11 @@
   "Object Detection": '"Object Detection"OR"Object Detector"'
   "Object Tracking": '"Object Tracking"OR"Visual Object Tracking"'
   "Multi-Object Tracking": '"Multi-Object Tracking"OR"Multiple Ojbect Tracking"OR"MOT"OR"Multiple Visual Object Tracking"'
+  "Zero-shot Vision": '"Zero-shot Vision"OR"Zero-shot Recognition"OR"Zero-shot Detection"OR"Zero-shot Classification"'
+  "Self-supervised Vision": '"Self-supervised Vision"OR"Self-supervised Visual Learning"OR"CLIP"OR"Contrastive Vision"'
+  "Visual Prompt Tuning": '"Visual Prompt Tuning"OR"VPT"OR"Vision Prompt Engineering"OR"Prompt Learning for Vision"'
+  "Neural Rendering": '"Neural Rendering"OR"Neural Radiance Fields"OR"NeRF"OR"Implicit Neural Representations"'
+  "Visual Understanding": '"Visual Understanding"OR"Scene Understanding"OR"Visual Reasoning"OR"Visual Question Answering"'
 
 "3D Vision":
   "3D Object Detection": '"3D Object Detection"OR"3D Object Detector"OR"Point Cloud Object Detection"'
@@ -16,6 +90,10 @@
   "Point Cloud Segmentation": '"Point Cloud Segmentation"'
   "Point Cloud Matching": '"Point Cloud Matching"'
   "Point Cloud Registration": '"Point Cloud Registration"'
+  "3D Reconstruction": '"3D Reconstruction"OR"Scene Reconstruction"OR"Neural 3D Reconstruction"OR"Single-view 3D Reconstruction"'
+  "Neural Radiance Fields": '"Neural Radiance Fields"OR"NeRF"OR"Novel View Synthesis"OR"View Generation"'
+  "3D Generation": '"3D Generation"OR"3D Shape Generation"OR"Text-to-3D"OR"Text-to-Shape"'
+  "3D Understanding": '"3D Understanding"OR"3D Scene Understanding"OR"3D Reasoning"OR"3D Perception"'
 
 "Federated Learning":
   "Federated Learning": '"Federated Learning"OR"Federated Machine Learning"'
@@ -29,53 +107,99 @@
   "Benchmark": '"Federated Learning"AND"Benchmark"'
   "Dataset": '"Federated Learning"AND"Dataset"'
   "Framework": '"Federated Learning"AND"Framework"'
+  "Cross-Device": '"Federated Learning"AND("Cross-Device"OR"Mobile"OR"Edge Devices")'
+  "Cross-Silo": '"Federated Learning"AND("Cross-Silo"OR"Enterprise"OR"Organization")'
+  "Vertical": '"Vertical Federated Learning"OR"VFL"OR"Feature-partitioned Federated Learning"'
 
 "Few-shot Learning":
   "Few-shot Learning": '"Few-shot Learning"OR"Few-shot"OR"Meta-Learning"OR"One-shot Learning"'
   "One-shot Learning": '"One-shot Learning"'
   "Meta Learning": '"Meta Learning"OR"Meta-Learning"'
+  "Prompt-based Few-shot": '"Prompt-based Few-shot"OR"In-context Learning"OR"Few-shot Prompting"'
+  "Zero-shot Learning": '"Zero-shot Learning"OR"Zero-shot Transfer"OR"Zero-shot Generalization"'
+  "Cross-domain Few-shot": '"Cross-domain Few-shot"OR"Domain Adaptation Few-shot"OR"Few-shot Domain Generalization"'
 
 "Unsupervised Learning":
   "Unsupervised Learning": '"Unsupervised Learning"'
   "GAN": '"GAN"OR"Generative Adversarial Network"'
+  "Self-supervised Learning": '"Self-supervised Learning"OR"SSL"OR"Self-supervision"OR"Pretext Tasks"'
+  "Contrastive Learning": '"Contrastive Learning"OR"Contrastive Representation Learning"OR"SimCLR"OR"MoCo"'
+  "Clustering": '"Clustering"OR"Deep Clustering"OR"Unsupervised Clustering"OR"Neural Clustering"'
+  "Representation Learning": '"Representation Learning"OR"Feature Learning"OR"Embedding Learning"OR"Latent Representation"'
+  "Anomaly Detection": '"Anomaly Detection"OR"Outlier Detection"OR"Novelty Detection"OR"Out-of-distribution Detection"'
 
 "Transfer Learning":
   "Transfer Learning": '"Transfer Learning"OR"Transfer Machine Learning"'
+  "Domain Adaptation": '"Domain Adaptation"OR"Cross-domain Learning"OR"Domain Transfer"OR"Domain Shift"'
+  "Domain Generalization": '"Domain Generalization"OR"Out-of-distribution Generalization"OR"OOD Generalization"'
+  "Knowledge Distillation": '"Knowledge Distillation"OR"Model Distillation"OR"Teacher-Student Learning"'
+  "Pre-training": '"Pre-training"OR"Pretraining"OR"Self-supervised Pretraining"OR"Foundation Models"'
+  "Multi-task Learning": '"Multi-task Learning"OR"MTL"OR"Joint Learning"OR"Parameter Sharing"'
+  "Continual Learning": '"Continual Learning"OR"Lifelong Learning"OR"Incremental Learning"OR"Sequential Learning"'
 
 "Contrastive Learning":
   "Contrastive Learning": '"Contrastive Learning"'
+  "Supervised Contrastive": '"Supervised Contrastive"OR"SupCon"OR"SCL"'
+  "Self-supervised Contrastive": '"Self-supervised Contrastive"OR"SimCLR"OR"MoCo"OR"BYOL"'
+  "Multimodal Contrastive": '"Multimodal Contrastive"OR"CLIP"OR"ALIGN"OR"Cross-modal Contrastive"'
+  "Contrastive Representation": '"Contrastive Representation"OR"Contrastive Embedding"OR"Contrastive Feature Learning"'
+  "Negative Sampling": '"Negative Sampling"OR"Hard Negative Mining"OR"Negative Pairs"'
 
 "Reinforcement Learning":
   "Reinforcement Learning": '"Reinforcement Learning"OR"RL"'
+  "Deep RL": '"Deep Reinforcement Learning"OR"DRL"OR"Deep RL"'
+  "Model-based RL": '"Model-based RL"OR"Model-based Reinforcement Learning"OR"MBRL"OR"World Model"'
+  "Model-free RL": '"Model-free RL"OR"Model-free Reinforcement Learning"OR"MFRL"'
+  "Policy Gradient": '"Policy Gradient"OR"PG"OR"REINFORCE"OR"Actor-Critic"OR"PPO"OR"SAC"'
+  "Q-Learning": '"Q-Learning"OR"Deep Q-Network"OR"DQN"OR"Double DQN"OR"Dueling DQN"'
+  "Offline RL": '"Offline RL"OR"Offline Reinforcement Learning"OR"Batch RL"OR"Batch Reinforcement Learning"'
+  "Multi-agent RL": '"Multi-agent RL"OR"Multi-agent Reinforcement Learning"OR"MARL"OR"Cooperative RL"OR"Competitive RL"'
+  "Hierarchical RL": '"Hierarchical RL"OR"Hierarchical Reinforcement Learning"OR"HRL"OR"Options Framework"'
+  "Exploration": '"Exploration in RL"OR"Reinforcement Learning Exploration"OR"Curiosity-driven RL"OR"Intrinsic Motivation"'
+  "RLHF": '"RLHF"OR"Reinforcement Learning from Human Feedback"OR"Human Feedback RL"OR"Preference-based RL"'
 
 "Transformer":
   "Transformer": '"Transformer"'
-  "Vision Transformer": '"Vision Transformer"OR"Computer Vision Transformer"'
+  "Vision Transformer": '"Vision Transformer"OR"Computer Vision Transformer"OR"ViT"OR"DeiT"OR"Swin Transformer"'
+  "Efficient Transformer": '"Efficient Transformer"OR"Sparse Transformer"OR"Linear Transformer"OR"Performer"OR"Reformer"'
+  "Multimodal Transformer": '"Multimodal Transformer"OR"Vision-Language Transformer"OR"Audio-Visual Transformer"'
+  "3D Transformer": '"3D Transformer"OR"Point Cloud Transformer"OR"Transformer for 3D"OR"Point-MAE"'
+  "Transformer Architecture": '"Transformer Architecture"OR"Attention Mechanism"OR"Self-Attention"OR"Multi-head Attention"'
+  "Transformer Pre-training": '"Transformer Pre-training"OR"Masked Modeling"OR"MAE"OR"BEiT"OR"SimMIM"'
 
 "Graph Neural Network":
   "Graph Neural Network": '"Graph Neural Network"'
-
-"Robotics":
-  "Robotics": '"Robotics"'
-  "SLAM": '"SLAM"'
-  "SFM": '"SFM"OR"Structure from Motion"'
-  "Visual Localization": '"Camera Localization"OR"Visual Localization"OR"Camera Re-localisation"'
+  "Graph Convolutional Networks": '"Graph Convolutional Networks"OR"GCN"OR"Graph Convolution"OR"Graph ConvNet"'
+  "Graph Attention Networks": '"Graph Attention Networks"OR"GAT"OR"Graph Attention"OR"Graph Transformer"'
+  "Graph Generation": '"Graph Generation"OR"Graph Synthesis"OR"Molecular Generation"OR"Structure Generation"'
+  "Graph Representation": '"Graph Representation"OR"Graph Embedding"OR"Node Embedding"OR"Graph Pooling"'
+  "Heterogeneous GNN": '"Heterogeneous GNN"OR"Heterogeneous Graph Neural Network"OR"HGNN"OR"HetGNN"'
+  "Dynamic GNN": '"Dynamic GNN"OR"Temporal GNN"OR"Spatio-temporal Graph"OR"Graph RNN"'
+  "Graph Self-supervised": '"Graph Self-supervised"OR"Graph Contrastive Learning"OR"Graph Pre-training"OR"Graph SSL"'
 
 "Multi-modal":
   "Multi-modal": '"Multi-modal"OR"Multimodal"OR"Multi modal"'
-  "VQA": '"VQA"OR"Visual Question Answering"OR"Visual Reasoning"OR"Knowledge-based  Graph"OR"Causal Inference"'
+  "VQA": '"VQA"OR"Visual Question Answering"OR"Visual Reasoning"OR"Knowledge-based Graph"OR"Causal Inference"'
   "Image Caption": '"Image Caption"OR"Video Caption"'
   "Text and Image Generation": '"Text and Image Generation"OR"Text-Image Generation"OR"Image and Text Generation"OR"Image-Text Generation"OR"Text-to-Image"OR"Image-to-Text"OR"Language-Image"OR"Image-Language"'
   "Vision-Language": '"Vision-Language"OR"Language-Vision"OR"Visual-Language"OR"Language-Visual"OR"Visual-Semantic"OR"Semantic-Visual"OR"Visual-Semantic"OR"Semantic-Visual"'
   "Alignment": '"Alignment"OR"Cross-Modal"OR"Cross Modal"OR"Cross-Modal Alignment"OR"Cross Modal Alignment"OR"Cross-Modal Retrieval"OR"Cross Modal Retrieval"OR"Cross-Modal Generation"OR"Cross Modal Generation"OR"Cross-Modal Translation"OR"Cross Modal Translation"OR"Cross-Modal Fusion"OR"Cross Modal Fusion"OR"Cross-Modal Interaction"OR"Cross Modal Interaction"OR"Cross-Modal Reasoning"OR"Cross Modal Reasoning"OR"Cross-Modal Learning"OR"Cross Modal Learning"OR"Cross-Modal Adaptation"OR"Cross Modal Adaptation"OR"Cross-Modal Representation"OR"Cross Modal Representation"OR"Cross-Modal Understanding"OR"Cross Modal Understanding"OR"Cross-Modal Perception"OR"Cross Modal Perception"OR"Cross-Modal Attention"OR"Cross Modal Attention"OR"Cross-Modal Communication"OR"Cross Modal Communication"OR"Cross-Modal Integration"OR"Cross Modal Integration"OR"Cross-Modal Inference"OR"Cross Modal Inference"OR"Cross-Modal Prediction"OR"Cross Modal Prediction"OR"Cross-Modal Reasoning"OR"Cross Modal Reasoning"OR"Cross-Modal Interaction"OR"Cross Modal Interaction"OR"Cross-Modal Learning"OR"Cross Modal Learning"OR"Cross-Modal Adaptation"OR"Cross Modal Adaptation"OR"Cross-Modal Representation"OR"Cross Modal Representation"OR"Cross-Modal Understanding"OR"Cross Modal Understanding"OR"Cross-Modal Perception"OR"Cross Modal Perception"OR"Cross-Modal Attention"OR"Cross Modal Attention"OR"Cross-Modal Communication"OR"Cross Modal Communication"OR"Cross-Modal Integration"OR"Cross Modal Integration"OR"Cross-Modal Inference"OR"Cross Modal Inference"OR"Cross-Modal Prediction"OR"Cross Modal Prediction"OR"Cross-Modal Reasoning"OR"Cross Modal Reasoning"OR"Cross-Modal Interaction"OR"Cross Modal Interaction"OR"Cross-Modal Learning"OR"Cross Modal Learning"OR"Cross-Modal Adaptation"OR"Cross Modal Adaptation"OR"Cross-Modal Representation"OR"Cross Modal Representation"OR"Cross-Modal Understanding"OR"Cross Modal Understanding"OR"Cross-Modal Perception"OR"Cross modal"'
+  "Audio-Visual": '"Audio-Visual"OR"Audio-Vision"OR"Sound-Vision"OR"Audio-Image"OR"Sound-Image"OR"Audio-Video"OR"Sound-Video"'
+  "Multi-lingual Multi-modal": '"Multi-lingual Multi-modal"OR"Multilingual Multimodal"OR"Cross-lingual Multi-modal"OR"Multilingual Vision-Language"'
+  "Embodied Multimodal": '"Embodied Multimodal"OR"Multimodal Embodied AI"OR"Multimodal Embodied Learning"OR"Multimodal Robot Learning"'
 
 "Medical Application":
   "Medical Application": '"Medical Application"OR"Medical Imaging"OR"Medical Image Analysis"OR"Medical Image Processing"'
   "Medical Image Analysis": '"Medical Image Analysis"OR"Medical Image Processing"'
   "Medical Multi-modal": '"Medical Multi-modal"OR"Medical Multimodal"OR"Medical Multi modal"'
+  "Medical AI": '"Medical AI"OR"Healthcare AI"OR"Clinical AI"OR"AI in Medicine"'
+  "Medical Segmentation": '"Medical Segmentation"OR"Organ Segmentation"OR"Lesion Segmentation"OR"Tumor Segmentation"'
+  "Medical Detection": '"Medical Detection"OR"Lesion Detection"OR"Abnormality Detection"OR"Disease Detection"'
+  "Medical Classification": '"Medical Classification"OR"Disease Classification"OR"Diagnosis Classification"OR"Pathology Classification"'
+  "Medical Prediction": '"Medical Prediction"OR"Disease Prediction"OR"Prognosis Prediction"OR"Outcome Prediction"'
+  "Medical Generation": '"Medical Generation"OR"Synthetic Medical Data"OR"Medical Image Synthesis"OR"Medical Image Translation"'
+  "Federated Medical": '"Federated Medical"OR"Federated Healthcare"OR"Medical Federated Learning"OR"Healthcare Federated Learning"'
 
-"Large-Language Model":
-  "Large-Language Model": '"Large-Language Model"OR"LLM"OR"Large Language Model"OR"Pre-trained Language Model"OR"PLM"OR"Pretrained Language Model"OR"Language Model"OR"LM"OR"Transformer-based Language Model"OR"TB-LM"OR"Transformer based Language Model"'
 "Edge Computing":
   "Edge Computing": '"Edge Computing"OR"Edge AI"OR"Edge Machine Learning"OR"Edge Learning"OR"Edge Intelligence"OR"Edge Device"OR"Edge Server"OR"Edge Node"OR"Edge Device"OR"Edge Gateway"OR"Edge Router"OR"Edge Switch"OR"Edge Network"OR"Edge Cloud"OR"Edge Data Center"OR"Edge Datacentre"OR"Edge Datacenter"OR"Edge Computing System"OR"Edge Computing Platform"OR"Edge Computing Framework"OR"Edge Computing Architecture"OR"Edge Computing Model"OR"Edge Computing Technology"OR"Edge Computing Application"OR"Edge Computing Service"OR"Edge Computing Solution"OR"Edge Computing Security"OR"Edge Computing Privacy"OR"Edge Computing Trust"OR"Edge Computing Performance"OR"Edge Computing Scalability"OR"Edge Computing Reliability"OR"Edge Computing Availability"OR"Edge Computing Maintainability"OR"Edge Computing Manageability"OR"Edge Computing Flexibility"OR"Edge Computing Interoperability"OR"Edge Computing Standard"OR"Edge Computing Protocol"OR"Edge Computing API"OR"Edge Computing SDK"OR"Edge Computing Library"OR"Edge Computing Tool"OR"Edge Computing Framework"OR"Edge Computing Middleware"OR"Edge Computing Operating System"OR"Edge Computing Virtualization"OR"Edge Computing Containerization"OR"Edge Computing Orchestration"OR"Edge Computing Management"OR"Edge Computing Monitoring"OR"Edge Computing Logging"OR"Edge Computing Debugging"OR"Edge Computing Testing"OR"Edge Computing Verification"OR"Edge Computing Validation"OR"Edge Computing Optimization"OR"Edge Computing Tuning"OR"Edge Computing Configuration"OR"Edge Computing Deployment"OR"Edge Computing Migration"OR"Edge Computing Upgrade"OR"Edge Computing Patch"OR"Edge Computing Backup"OR"Edge Computing Recovery"OR"Edge Computing Restore"OR"Edge Computing Replication"OR"Edge Computing Synchronization"OR"Edge Computing Backup"OR"Edge Computing Recovery"OR"Edge Computing Restore"OR"Edge Computing Replication"OR"Edge Computing Synchronization"OR"Edge Computing Backup"OR"Edge Computing Recovery"OR"Edge Computing Restore"OR"Edge Computing Replication"OR"Edge Computing Synchronization"OR"Edge Computing Backup"OR"Edge Computing Recovery"OR"Edge Computing Restore"'
   "Efficient": '"Edge Computing"AND"Efficient"OR"Edge Computing Efficiency"'
@@ -85,3 +209,6 @@
   "Performance": '"Edge Computing"AND"Performance"OR"Edge Computing Performance"'
   "Scalability": '"Edge Computing"AND"Scalability"OR"Edge Computing Scalability"'
   "Reliability": '"Edge Computing"AND"Reliability"OR"Edge Computing Reliability"'
+  "Edge-Cloud Collaboration": '"Edge-Cloud Collaboration"OR"Edge-Cloud Computing"OR"Hybrid Edge-Cloud"OR"Fog Computing"'
+  "Edge Deployment": '"Edge Deployment"OR"Edge Model Deployment"OR"TinyML"OR"Compressed Models"OR"Model Quantization"'
+  "Edge Inference": '"Edge Inference"OR"On-device Inference"OR"Real-time Inference"OR"Low-latency Inference"'
